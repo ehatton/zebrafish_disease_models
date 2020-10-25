@@ -1,0 +1,8 @@
+name: zebrafish_disease_models
+channels:
+  - defaults
+dependencies:
+  - python>=3.7
+  - jupyterlab
+  - pandas
+  
